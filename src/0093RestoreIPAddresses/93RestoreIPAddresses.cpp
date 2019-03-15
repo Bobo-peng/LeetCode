@@ -26,9 +26,9 @@ vector<string> restoreIpAddresses(string s) {
 	return res;
 
 }
-//int main()
-//{
-//	string ip1 = "1001";
-//	vector<string> res = restoreIpAddresses(ip1);
-//	return 0;
-//}
+int main()
+{
+	string ip1 = "1001";
+	vector<string> res = restoreIpAddresses(ip1);
+	return 0;
+}
